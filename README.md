@@ -1,4 +1,4 @@
-# first_app
+# Tinyshop
 
 A new Flutter project.
 
